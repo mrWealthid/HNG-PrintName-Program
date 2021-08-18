@@ -3,4 +3,4 @@ Using JavaScript console and the DOM
 
 ![Resume Page](resume-screenshot.png?raw=true "HNG-PrintName-Program ")
 
-### <a href="https://https://wealthportfolio.netlify.app">LIVE DEMO</a>
+### <a href="https://https://wealthportfolio.netlify.app">RESUME LIVE DEMO</a>
