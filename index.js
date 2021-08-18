@@ -3,7 +3,7 @@
 // Task No_2 A simple program that prints my Name using javascript;
 
 const printName = (firstName, lastName) => {
-  return firstName + " " + lastName;
+  return `Hi, My Name Is  ${firstName}  ${lastName} 😊 `;
 };
 
 //Print to the DOM
